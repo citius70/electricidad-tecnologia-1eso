@@ -1,7 +1,7 @@
 site_name: Electricidad básica
 nav:
   - Inicio: index.md
-  - Introducción: 1_introduccion.md
+  - Introducción a la electricidad: 1_introduccion.md
   - El átomo: 
     - Estructura del átomo: 2_atomo.md
     - Experimenta: 2_1_experimenta.md
