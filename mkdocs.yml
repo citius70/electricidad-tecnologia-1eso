@@ -1,0 +1,45 @@
+site_name: Electricidad básica
+nav:
+  - Inicio: index.md
+  - Introducción: 1_introduccion.md
+  - El átomo: 
+    - Estructura del átomo: 2_atomo.md
+    - Experimenta: 2_1_experimenta.md
+  - La corriente eléctrica: 3_corriente.md
+  - El circuito eléctrico:
+    - Definición y características: 4_circuito_elec.md
+    - Componentes eléctricos: 4_1_componentes_elec.md
+  - Símbolos y esquemas eléctricos: 5_simbolos.md
+  - Magnitudes fundamentales eléctricas: 6_magnitudes.md
+  - La Ley de Ohm: 7_ley_ohm.md 
+
+locale: es
+
+
+theme:
+  name: material
+  language: es
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+  - abbr
+  - pymdownx.blocks.caption
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+  - toc:
+      permalink: true
+
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css

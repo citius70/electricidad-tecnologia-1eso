@@ -1,0 +1,67 @@
+# **Electricidad básica** - 1º ESO
+
+![Electricidad](media/electricidad.jpg){ align=right width=40% }
+
+¡Bienvenidos al curso de **Electricidad básica**! En este recorrido, aprenderemos los conceptos fundamentales que explican cómo funciona uno de los fenómenos más importantes y útiles de la naturaleza: **la electricidad**. Este curso está diseñado para que comprendas los principios básicos que sustentan el funcionamiento de muchos dispositivos y tecnologías que usamos a diario.
+
+A lo largo del curso, exploraremos los siguientes temas:
+
+
+
+
+<div class="grid cards" markdown>
+
+-   :material-atom:{ .lg .middle } __El átomo__
+
+    ---
+
+    Descubriremos la estructura básica de la materia y cómo las partículas subatómicas, como los electrones, son esenciales para entender la electricidad.
+
+    [:octicons-arrow-right-24: Getting started](#)
+
+-   :material-lightning-bolt-outline:{ .lg .middle } __La corriente eléctrica__
+
+    ---
+
+    Aprenderemos qué es el flujo de electrones y cómo se genera y se mide.
+
+    [:octicons-arrow-right-24: Reference](#)
+
+-   :material-generator-stationary:{ .lg .middle } __El circuito eléctrico__
+
+    ---
+
+    Estudiaremos las conexiones que permiten a la corriente eléctrica moverse y realizar trabajo útil.
+
+    [:octicons-arrow-right-24: Customization](#)
+
+-   :material-electric-switch:{ .lg .middle } __Símbolos y esquemas eléctricos__
+
+    ---
+
+    Aprenderemos a expresar gráficamente un circuito en un plano.
+
+    [:octicons-arrow-right-24: License](#)
+
+-   :material-omega:{ .lg .middle } __Magnitudes fundamentales eléctricas__
+
+    ---
+
+    Profundizaremos en el Voltaje, la Intensidad y la Resistencia eléctrica, comprendiendo cómo se definen, se calculan y se relacionan entre sí.
+
+    [:octicons-arrow-right-24: License](#)  
+
+-   :material-calculator-variant-outline:{ .lg .middle } __Ley de Ohm__
+
+    ---
+
+    Analizaremos esta regla fundamental que relaciona el Voltaje, la Intensidad de corriente y la Resistencia eléctrica en un circuito eléctrico.
+
+    [:octicons-arrow-right-24: License](#) 
+
+</div>
+ 
+
+El objetivo de este curso es ayudarte a entender cómo funcionan los conceptos básicos de la electricidad y su importancia en nuestra vida cotidiana. Además, realizaremos experimentos prácticos para reforzar tu aprendizaje y despertar tu curiosidad científica.
+
+¡Prepárate para encender la chispa del conocimiento! ⚡
