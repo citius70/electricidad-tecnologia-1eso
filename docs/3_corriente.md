@@ -1,5 +1,8 @@
 # 2. La corriente eléctrica ⚡
 
+!!! note "Definición de Corriente Eléctrica"
+    La **corriente eléctrica** es el movimiento ordenado de **electrones** a lo largo de un cuerpo en un mismo sentido.
+
 ![CorrienteNo](media/corriente_elec_no.gif){ align=right width=300px }
 
 Imagina que los átomos son como pequeñas piezas de un juego. Algunos de ellos tienen **carga positiva** (como si fueran imanes con un lado que "atrae") y otros tienen **carga negativa** (como el otro lado del imán que también "atrae").
@@ -14,8 +17,7 @@ Ahora, si conseguimos que los electrones (que son muy pequeños y están en movi
 
 Es como si los electrones fueran coches en una carretera, moviéndose todos en la misma dirección. Este movimiento ocurre dentro de ciertos materiales, como los **metales**. Por eso decimos que "circula corriente eléctrica" por un cable, aunque en realidad lo que se mueve son esos electrones, y lo hacen desde un extremo del cable hasta el otro de manera continua.
 
-!!! note "Definición de Corriente Eléctrica"
-    La **corriente eléctrica** es el movimiento ordenado de **electrones** a lo largo de un cuerpo en un mismo sentido.
+
 
 
 ## 2.1. Generadores eléctricos

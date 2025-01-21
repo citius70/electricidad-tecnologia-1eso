@@ -1,24 +1,57 @@
 site_name: Electricidad básica
 nav:
   - Inicio: index.md
-  - Introducción: 1_introduccion.md
-  - El átomo: 
-    - Estructura del átomo: 2_atomo.md
-    - Experimenta: 2_1_experimenta.md
-  - La corriente eléctrica: 3_corriente.md
-  - El circuito eléctrico:
-    - Definición y características: 4_circuito_elec.md
-    - Componentes eléctricos: 4_1_componentes_elec.md
-  - Símbolos y esquemas eléctricos: 5_simbolos.md
-  - Magnitudes fundamentales eléctricas: 6_magnitudes.md
-  - La Ley de Ohm: 7_ley_ohm.md 
+  - 1. Introducción: 1_introduccion.md
+  - 2. El átomo: 
+    - 2.1. Estructura del átomo: 2_atomo.md
+    - 2.2. Experimenta: 2_1_experimenta.md
+  - 3. La corriente eléctrica: 3_corriente.md
+  - 4. El circuito eléctrico:
+    - 4.1. Definición y características: 4_circuito_elec.md
+    - 4.2. Componentes eléctricos: 4_1_componentes_elec.md
+  - 5. Símbolos y esquemas eléctricos: 5_simbolos.md
+  - 6.  Magnitudes fundamentales eléctricas: 6_magnitudes.md
+  - 7. La Ley de Ohm: 7_ley_ohm.md 
 
 locale: es
+
+site_url: https://citius70.github.io/1eso_electricidad/
 
 
 theme:
   name: material
   language: es
+  palette:
+    
+   # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Cambiar a modo claro
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+        
+   # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a preferencias de sistema
+
+
+
+  features:
+    - navigation.top
+    - navigation.expand
+    - navigation.instant
+    - navigation.instant.prefetch
+
+
 
 markdown_extensions:
   - admonition
@@ -43,3 +76,4 @@ extra_javascript:
 
 extra_css:
   - https://unpkg.com/katex@0/dist/katex.min.css
+

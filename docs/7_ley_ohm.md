@@ -6,14 +6,14 @@ A comienzos del siglo XIX, el físico alemán George Simon Ohm estudió la **rel
 
 Comprobó que:
 
-* al aumentar el $Voltaje$ en un circuito eléctrico, también aumentaba el número de electrones en movimiento, es decir, aumentaba la $Intensidad\enspace de\enspace corriente$,
+* al aumentar el **Voltaje** en un circuito eléctrico, también aumentaba el número de electrones en movimiento, es decir, aumentaba la **Intensidad de corriente**,
 
-* que al aumentar  la $Resistencia\enspace eléctica$ entonces la $Intensidad\enspace de\enspace corriente$ disminuía.
+* que al aumentar  la **Resistencia eléctica** entonces la **Intensidad de corriente** disminuía.
 
 Fruto de esta experimentación, en 1827 enunció lo que conocemos como **Ley de Ohm**, que dice:
 
 !!! info "Ley de Ohm"
-    La Intensidad de Corriente Eléctrica ($I$) que circula por un circuito es directamente proporcional al Voltaje ($V$) aplicado e inversamente proporcional a la Resistencia ($R$) del circuito.
+    La **Intensidad de corriente** ($I$) que circula por un circuito es directamente proporcional al **Voltaje** ($V$) aplicado e inversamente proporcional a la **Resistencia eléctrica** ($R$) del circuito.
 
 
 La **Ley de Ohm** se puede formalizar mediante la expresión matemática siguiente:
@@ -25,9 +25,9 @@ I = \frac{V}{R}$$
 
 donde:
 
-- $I$ es la Intensidad de Corriente, expresada en amperios $A$
-- $V$ es el Voltaje o Tensión, expresado en voltios $v$
-- $R$ es la Resistencia Eléctrica, expresada en ohmios $\varOmega$
+- $I$ es la **Intensidad de Corriente**, expresada en amperios $A$
+- $V$ es el **Voltaje o Tensión**, expresado en voltios $v$
+- $R$ es la **Resistencia Eléctrica**, expresada en ohmios $\varOmega$
 
 Ahora trata de buscar la expresión de la Ley de Ohm pero con la $V$ y la $R$ despejadas:
 
