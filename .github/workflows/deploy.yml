@@ -1,0 +1,27 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Cambia 'main' si usas otra rama como predeterminada
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.x  # Ajusta la versión de Python si es necesario
+
+    - name: Install dependencies
+      run: |
+        pip install mkdocs mkdocs-material
+
+    - name: Build and Deploy
+      run: |
+        mkdocs gh-deploy --force
