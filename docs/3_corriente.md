@@ -8,7 +8,7 @@
 Imagina que los átomos son como pequeñas piezas de un juego. Algunos de ellos tienen **carga positiva** (como si fueran imanes con un lado que "atrae") y otros tienen **carga negativa** (como el otro lado del imán que también "atrae").
 Cuando un átomo con carga positiva se acerca a otro con carga negativa, la parte positiva atrae a los electrones (que tienen carga negativa) del otro átomo. Esto ocurre hasta que las dos cargas se equilibran y ya no hay atracción porque quedan "neutros", como si todo estuviera en calma.
 
-En el caso de que estos saltos de los electrones sean **caóticos** o desordenados, **no habrá corriente eléctrica**.
+En el caso de que estos saltos de los electrones sean **caóticos** (desordenados), **no habrá corriente eléctrica**.
 
 ![CorrienteSí](media/positive electric field.gif){ align=right width=300px }
 
