@@ -13,8 +13,6 @@ nav:
   - Magnitudes fundamentales eléctricas: 6_magnitudes.md
   - La Ley de Ohm: 7_ley_ohm.md 
 
-locale: es_ES
-
 site_url: https://citius70.github.io/1eso_electricidad/
 repo_url: https://github.com/citius70/1eso_electricidad.git
 repo_name: citius70/1eso_electricidad
