@@ -106,4 +106,3 @@ La Intensidad de Corriente se mide con un aparato llamado **amperímetro**. Ést
 
     * Si **aumenta la $R$** de un circuito, entonces, el número de electrones en movimiento que pasan por un punto del circuito durante 1 segundo, **disminuye**. Entonces, **disminuirá la $I$**.
     * De ello se deduce, que si **disminuye la $R$**, **aumentará la $I$**.
-

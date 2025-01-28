@@ -20,7 +20,13 @@ Como vimos en el apartado anterior el circuito eléctrico está formado por un c
 
 Para ello, mantienen una fuerza (**voltaje**) constante entre dos puntos denominados bornes o polos (positivo y negativo), moviendo los electrones desde el polo negativo al positivo.
 
-Ejemplos de generadores son! las pilas de los dispositivos eléctricos, las baterías de los coches, los alternadores de las centrales eléctricas o las dinamos de las bicicletas.
+Su **símbolo eléctrico** es: 
+
+![Generador](media/simbolo_battery.png){ align=center width=16% style="display: block; margin: 0 auto;" }
+
+Ejemplos de generadores son: las pilas de los dispositivos eléctricos, las baterías de los coches, los alternadores de las centrales eléctricas o las dinamos de las bicicletas.
+
+
 
 ## 4.1.2. Conductores eléctricos
 
@@ -53,17 +59,33 @@ Los receptores más importantes son: la lámpara y el motor eléctrico, aunque h
 
 > Las **lámparas** (o bombillas) transforman la *energía eléctrica* que les llega en *energía luminosa (radiante)*.
 
+``` mermaid
+graph LR
+  A[Energía eléctrica] --> B{Bombilla};
+  B --> E[Energía luminosa];
+```
+
 ![Bombilla](media/bombilla.jpg){ align=right width=200px }
 
 Las bombillas transforman en luz la corriente eléctrica que se les suministra, El problema es que sólo un 15 o un 25 % de esta corriente se convierte en luz, el resto se disipa (pierde) en forma de calor.
 
-Sinos fijamos con cuidado, vemos que la parte que se ilumina es un conductor muy fino! el filamento.
+Si nos fijamos con cuidado, vemos que la parte que se ilumina es un conductor muy fino! el filamento.
 
 Al estrecharse el conductor, los electrones chocan más a menudo con los átomos del filamento, por lo que éste se calienta a más de 3.000 ºC. A esas temperaturas, la mayoría de los metales se funden, por eso se utiliza el tungsteno, que es un material con un punto de fusión de 3.200 ºC.
+
+Su **símbolo eléctrico** es: 
+
+![Bombilla](media/simbolo_bombilla.png){ align=center width=25% style="display: block; margin: 0 auto;" }
 
 ### Motores eléctricos
 
 > Los **motores** transforman la energía eléctrica en energía cinética (movimiento).
+
+``` mermaid
+graph LR
+  A[Energía eléctrica] --> B{Motor eléctrico};
+  B --> E[Energía cinética];
+```
 
 ![Motor](media/motor.jpg){ align=right width=200px }
 
@@ -71,13 +93,27 @@ Se utilizan en muchísimos aparatos: lavadoras, batidoras, taladrados, ventilado
 
 Al abrir un motor se observa que contiene una bobina, que es un conductor fino enrollado con muchas vueltas, y unos imanes. Básicamente, el funcionamiento de un motor es el siguiente: al pasar la electricidad por la bobina, ésta se comporta como un imán y es atraído por el imán fijo que la hace girar.
 
+Su **símbolo eléctrico** es: 
+
+![motor](media/simbolo_motor.png){ align=center width=10% style="display: block; margin: 0 auto;" }
+
 ### Zumbadores
 
 ![Zumbador](media/zumbador.jpg){ align=right width=200px }
 
 > Un **zumbador** eléctrico es un dispositivo que transforma la energía eléctrica en energía sonora.
 
+``` mermaid
+graph LR
+  A[Energía eléctrica] --> B{Zumbador};
+  B --> E[Energía sonora];
+```
+
 Emite un sonido característico (zumbido) cuando se le aplica una corriente eléctrica. Es ampliamente utilizado en circuitos y dispositivos electrónicos para generar señales audibles que sirven como alarmas, indicadores o avisos.
+
+Su **símbolo eléctrico** es: 
+
+![zumbador](media/simbolo_zumbador.png){ align=center width=10% style="display: block; margin: 0 auto;" }
 
 ## 4.1.4. Elementos de maniobra o de control
 

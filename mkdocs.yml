@@ -1,26 +1,38 @@
 site_name: Electricidad básica
 nav:
   - Inicio: index.md
-  - 1. Introducción: 1_introduccion.md
-  - 2. El átomo: 
-    - 2.1. Estructura del átomo: 2_atomo.md
-    - 2.2. Experimenta: 2_1_experimenta.md
-  - 3. La corriente eléctrica: 3_corriente.md
-  - 4. El circuito eléctrico:
-    - 4.1. Definición y características: 4_circuito_elec.md
-    - 4.2. Componentes eléctricos: 4_1_componentes_elec.md
-  - 5. Símbolos y esquemas eléctricos: 5_simbolos.md
-  - 6.  Magnitudes fundamentales eléctricas: 6_magnitudes.md
-  - 7. La Ley de Ohm: 7_ley_ohm.md 
+  - Introducción a la electricidad: 1_introduccion.md
+  - El átomo: 
+    - Estructura del átomo: 2_atomo.md
+    - Experimenta: 2_1_experimenta.md
+  - La corriente eléctrica: 3_corriente.md
+  - El circuito eléctrico:
+    - Definición y características: 4_circuito_elec.md
+    - Componentes eléctricos: 4_1_componentes_elec.md
+  - Símbolos y esquemas eléctricos: 5_simbolos.md
+  - Magnitudes fundamentales eléctricas: 6_magnitudes.md
+  - La Ley de Ohm: 7_ley_ohm.md 
 
-locale: es
+locale: es_ES
 
 site_url: https://citius70.github.io/1eso_electricidad/
+repo_url: https://github.com/citius70/1eso_electricidad.git
+repo_name: citius70/1eso_electricidad
 
 
 theme:
+  features:
+    - header.autohide
+  icon:
+    repo: fontawesome/brands/git
   name: material
   language: es
+  palette:
+    primary: indigo
+    accent: indigo
+    background: white
+    foreground: black
+    code: dark
   palette:
     
    # Palette toggle for automatic mode
@@ -55,7 +67,11 @@ theme:
 
 markdown_extensions:
   - admonition
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - attr_list
   - pymdownx.arithmatex:
       generic: true
@@ -77,3 +93,6 @@ extra_javascript:
 extra_css:
   - https://unpkg.com/katex@0/dist/katex.min.css
 
+extra:
+  version:
+    provider: mike
