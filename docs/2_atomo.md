@@ -13,7 +13,7 @@ Los fenómenos eléctricos tiene su origen en la **estructura interna de la mate
 | CORTEZA  | **Electrones** (-) | Se encuentra en la CORTEZA del átomo y se conocen también como cargas NEGATIVAS    |
 
 !!! note "Definición de Átomo"
-    El **átomo** es el componente fundamental de la materia, y proporciona sus propiedades
+    El **átomo** es el componente fundamental de la materia, y le proporciona sus propiedades
 
 
 Vamos a estudiar con atención las partículas subatómicas constituyentes del átomo y la facultad de moverse que tienen los electrones.
