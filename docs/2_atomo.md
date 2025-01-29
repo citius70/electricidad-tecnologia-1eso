@@ -12,13 +12,15 @@ Los fenómenos eléctricos tiene su origen en la **estructura interna de la mate
 | NÚCLEO  | **Neutrones** (sin carga) | Se encuentra en el NÚCLEO del átomo y se conocen también como cargas NEUTRAS    |
 | CORTEZA  | **Electrones** (-) | Se encuentra en la CORTEZA del átomo y se conocen también como cargas NEGATIVAS    |
 
+![Átomo](media/atomo.gif){ align=right width=300px }
+
 !!! note "Definición de Átomo"
     El **átomo** es el componente fundamental de la materia, y proporciona sus propiedades
 
 
 Vamos a estudiar con atención las partículas subatómicas constituyentes del átomo y la facultad de moverse que tienen los electrones.
 
-## 1.1. Carga eléctrica: positiva y negativa
+## 1.1. Carga eléctrica: positiva, negativa y neutra.
 
 Las subpartículas que forman el átomo tienen distinta carga eléctrica:
 
@@ -37,7 +39,9 @@ Algunos átomos presentan tendencia a capturar o a perder electrones, lo que pro
 
 ## 1.2. Fuerzas de atracción y repulsión
 
-Entre las **partículas subatómicas** (como protones, electrones y neutrones)  existen **fuerzas de atracción y repulsión**, y son las responsables de mantener un átomo unido. Vamos a verlo con más detalle, pero explicado de manera sencilla:
+![Cargas](media/cargas.png){ align=right width=30% } 
+
+Entre las **partículas subatómicas** (como protones, electrones y neutrones)  existen **fuerzas de atracción y repulsión**, y son las responsables de mantener un átomo unido. Vamos a verlo con más detalle, pero explicado de manera sencilla:  
 
 * **Protones (+) y protones (+)**:
 
@@ -45,8 +49,6 @@ Entre las **partículas subatómicas** (como protones, electrones y neutrones)  
   
         * Sin embargo, dentro del núcleo, esta repulsión es superada por otra fuerza (nuclear) que hace que los protones no se separen demasiado.
 
-
-![Cargas](media/cargas.png){ align=right width=200px }    
 
 * **Electrones (-) y electrones (-)**:
 

@@ -128,15 +128,20 @@ Los más importantes son:
 - el pulsador,
 - el conmutador.
 
-### Interruptores
+### Interruptor
 
 ![Interruptores](media/interruptores.webp){ align=right width=250px }
 
 > Un **interruptor** es un componente eléctrico cuya función es abrir o cerrar un circuito de forma permanente.
 
+
 Al accionarlo haremos que varíe su posición, abriendo un circuito que estaba cerrado o cerrando uno que estaba abierto, permaneciendo así hasta que lo volvamos a accionar.
 
-### Pulsadores
+Su **símbolo eléctrico** es:
+
+![Interruptores](media/interruptor_simbolo.png){ align=center width=20% style="display: block; margin: 0 auto;" }
+
+### Pulsador
 
 > Un **pulsador** es un componente eléctrico que, cuando se oprime, permite el paso de la corriente eléctrica y, cuando se deja de oprimir, lo interrumpe.
 
@@ -148,9 +153,18 @@ Existen dos tipos de pulsadores:
 
 * **pulsador N.A.** (**N**ormalmente **A**bierto): los contactos del pulsador están abiertos; es decir, no dejan pasar la corriente hasta que pulsamos. Son los más comunes.
 
+    * Su **símbolo eléctrico** es:
+
+![Pulsador](media/pulsadorna_simbolo.png){ align=center width=15% style="display: block; margin: 0 auto;" }
+
 * **pulsador N.C.** (**N**ormalmente **C**errado): los contactos del pulsador están cerrados, es decir, dejan pasar la corriente hasta que pulsamos.
 
-### Conmutadores
+    * Su **símbolo eléctrico** es:
+
+![Pulsador](media/pulsadornc_simbolo.png){ align=center width=15% style="display: block; margin: 0 auto;" }
+
+
+### Conmutador
 ![Conmutador](media/conmutador1.jpg){ align=right width=100px }
 
 > Un **conmutador** es un interruptor que abre un circuito, al mismo tiempo que, automáticamente, cierra otro.
@@ -161,6 +175,10 @@ Es decir, el conmutador es un doble interruptor porque actúa sobre dos circuito
 ![Conmutador](media/conmutador2.jpg){ align=right width=250px }
 
 Al conmutador llegan más de dos cables en vez de sólo dos, por lo que la diferencia entre un interruptor normal y un conmutador consiste en que el primero tiene dos contactos y el segundo tiene tres o más.
+
+Su **símbolo eléctrico** es:
+
+![Conmutador](media/simbolo_conmutador.png){ align=center width=15% style="display: block; margin: 0 auto;" }
 
 ## 4.1.5. Elementos de protección
 
@@ -174,6 +192,10 @@ Al conmutador llegan más de dos cables en vez de sólo dos, por lo que la difer
 ![Fusibles](media/fusible2.webp){ align=right width=150px }
 
 El funcionamiento de los fusibles es muy sencillo. Por ejemplo, si el aparato seamos proteger no puede soportar una intensidad mayor de 13 A intercalamos en el circuito un fusible que se funda a esa intensidad. Si aumenta la intensidad por encima de ese valor, el fusible se calienta tanto que se funde, interrumpiendo así el paso de la corriente eléctrica. De esta forma, el fusible se funde protegiendo el aparato. Sólo tendremos que cambiar el fusible para que de nuevo el circuito vuelva a funcionar.
+
+Su **símbolo eléctrico** es:
+
+![Fusible](media/simbolo_fusi.png){ align=center width=15% style="display: block; margin: 0 auto;" }
 
 ### Interruptor magnetotérmico
 
