@@ -66,4 +66,4 @@ A lo largo del curso, exploraremos los siguientes temas:
 
 El objetivo de este curso es ayudarte a entender cómo funcionan los conceptos básicos de la electricidad y su importancia en nuestra vida cotidiana. Además, realizaremos experimentos prácticos para reforzar tu aprendizaje y despertar tu curiosidad científica.
 
-¡Prepárate para despegar! 🚀
+¡Prepárate que despegamos! 🚀
