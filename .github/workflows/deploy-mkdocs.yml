@@ -1,0 +1,33 @@
+name: Deploy MkDocs to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # Ejecutar solo en la rama main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Descargar el contenido del repositorio
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # 2. Configurar Python
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9' # Versión de Python requerida por MkDocs
+
+    # 3. Instalar las dependencias necesarias para MkDocs
+    - name: Install dependencies
+      run: |
+        pip install mkdocs-material
+
+    # 4. Generar y desplegar el sitio en GitHub Pages
+    - name: Deploy to GitHub Pages
+      run: |
+        mkdocs gh-deploy --force
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
