@@ -6,7 +6,7 @@ Los fenómenos eléctricos tiene su origen en la **estructura interna de la mate
 
 
 
-| ZONA | PARTÍCULA SUBATÓMICA |  |
+| ZONAS | PARTÍCULAS SUBATÓMICAS |  |
 | ------------ | ------------- | ------------ |
 | NÚCLEO  | **Protones** (+)          | Se encuentra en el NÚCLEO del átomo y se conocen también como cargas POSITIVAS  |
 | NÚCLEO  | **Neutrones** (sin carga) | Se encuentra en el NÚCLEO del átomo y se conocen también como cargas NEUTRAS    |
