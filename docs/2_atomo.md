@@ -2,7 +2,7 @@
 
 ![Átomo](media/atomo.png){ align=right width=300px }
 
-Los fenómenos eléctricos tiene su origen en la **estructura interna de la materia**, que está formada por partículas diminutas llamadas **átomos**. Los átomos son los componentes básicos de toda la materia que nos rodea y determinan sus propiedades. Aunque parecen indivisibles a simple vista, los átomos están formados por dos **zonas** (núcleo y corteza) que albergan tres tipos de **partículas subatómicas**:
+Los fenómenos eléctricos tiene su origen en la **estructura interna de la materia**, que está formada por partículas diminutas llamadas **átomos**. Los átomos **son los componentes básicos de toda la materia que nos rodea y determinan sus propiedades**. Aunque parecen indivisibles a simple vista, los átomos están formados por dos **zonas** (núcleo y corteza) que albergan tres tipos de **partículas subatómicas**:
 
 
 
