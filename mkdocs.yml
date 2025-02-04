@@ -6,10 +6,12 @@ nav:
     - Estructura del átomo: 2_atomo.md
     - Experimenta: 2_1_experimenta.md
   - La corriente eléctrica: 3_corriente.md
-  - El circuito eléctrico:
+  - El circuito eléctrico::
     - Definición y características: 4_circuito_elec.md
     - Componentes eléctricos: 4_1_componentes_elec.md
-  - Símbolos y esquemas eléctricos: 5_simbolos.md
+  - Símbología eléctrica::
+    - Símbolos y esquemas eléctricos: 5_simbolos.md
+    - Ejercicios sobre esquemas eléctricos: 5_1_esquemas_ejercicios.md
   - Magnitudes fundamentales eléctricas: 6_magnitudes.md
   - La Ley de Ohm: 7_ley_ohm.md 
 

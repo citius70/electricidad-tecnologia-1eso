@@ -6,22 +6,21 @@ A comienzos del siglo XIX, el físico alemán George Simon Ohm estudió la **rel
 
 Comprobó que:
 
-* al aumentar el **Voltaje** en un circuito eléctrico, también aumentaba el número de electrones en movimiento, es decir, aumentaba la **Intensidad de corriente**,
+- al aumentar el **Voltaje** en un circuito eléctrico, también aumentaba el número de electrones en movimiento, es decir, aumentaba la **Intensidad de corriente**,
 
-* que al aumentar  la **Resistencia eléctica** entonces la **Intensidad de corriente** disminuía.
+- que al aumentar la **Resistencia eléctica** entonces la **Intensidad de corriente** disminuía.
 
 Fruto de esta experimentación, en 1827 enunció lo que conocemos como **Ley de Ohm**, que dice:
 
 !!! info "Ley de Ohm"
-    La **Intensidad de corriente** ($I$) que circula por un circuito es directamente proporcional al **Voltaje** ($V$) aplicado e inversamente proporcional a la **Resistencia eléctrica** ($R$) del circuito.
-
+La **Intensidad de corriente** ($I$) que circula por un circuito es directamente proporcional al **Voltaje** ($V$) aplicado e inversamente proporcional a la **Resistencia eléctrica** ($R$) del circuito.
 
 La **Ley de Ohm** se puede formalizar mediante la expresión matemática siguiente:
 
 $$
 \large
-I = \frac{V}{R}$$
-
+I = \frac{V}{R}
+$$
 
 donde:
 
@@ -31,34 +30,50 @@ donde:
 
 Ahora trata de buscar la expresión de la Ley de Ohm pero con la $V$ y la $R$ despejadas:
 
-* con el Voltaje despejado:
+- con el Voltaje despejado:
 
 $$
 \large
 V = I \times R
 $$
 
-* con la Resistencia eléctrica despejada:
+- con la Resistencia eléctrica despejada:
 
 $$
 \large
 R = \frac{V}{I}
 $$
 
+![Ohm](media/leyohm.png){ align=center width=100% }
+
 **Ejercicio**: Un circuito simple está formado por una pila de $9v$ y una bombilla cuya Resistencia Eléctrica es de $3\varOmega$.
 
-a) Calcula la Intensidad que circulará por el circuito.
+a) Dibuja el esquema del circuito.
+
+b) Calcula la Intensidad que circulará por el circuito.
 
 **Solución**:
 
-Según la Ley de Ohm:
+Datos:
+
+$V = 9v$
+
+$R = 3\varOmega$
+
+a) Esquema eléctrico:
+
+ ![circuito](media/ley_ohm_esquema.png){ align=center width=20% }
+
+b) Según la Ley de Ohm:
 
 $$
 \large
-I = \frac{V}{R}$$
+I = \frac{V}{R}
+$$
 
 sustituyendo:
 
 $$
 \large
-I = \dfrac{9 v}{3 \varOmega}= 3A$$
+I = \dfrac{9 v}{3 \varOmega}= 3A
+$$

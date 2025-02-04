@@ -135,7 +135,7 @@ Los más importantes son:
 > Un **interruptor** es un componente eléctrico cuya función es abrir o cerrar un circuito de forma permanente.
 
 
-Al accionarlo haremos que varíe su posición, abriendo un circuito que estaba cerrado o cerrando uno que estaba abierto, permaneciendo así hasta que lo volvamos a accionar.
+Al accionarlo haremos que varíe su posición, abriendo un circuito que estaba cerrado o cerrando uno que estaba abierto, permaneciendo así hasta que lo volvamos a accionar (biestable).
 
 Su **símbolo eléctrico** es:
 
@@ -145,7 +145,7 @@ Su **símbolo eléctrico** es:
 
 > Un **pulsador** es un componente eléctrico que, cuando se oprime, permite el paso de la corriente eléctrica y, cuando se deja de oprimir, lo interrumpe.
 
-Se emplea en los timbres, las máquinas expendedoras de refrescos, los teclados de los ordenadores, para seleccionar el piso en los ascensores y en otras muchas aplicaciones.
+Tiene una sola posición estable (monoestable). Se emplea en los timbres, las máquinas expendedoras de refrescos, los teclados de los ordenadores, para seleccionar el piso en los ascensores y en otras muchas aplicaciones.
 
 Existen dos tipos de pulsadores:
 
@@ -165,6 +165,7 @@ Existen dos tipos de pulsadores:
 
 
 ### Conmutador
+
 ![Conmutador](media/conmutador1.jpg){ align=right width=100px }
 
 > Un **conmutador** es un interruptor que abre un circuito, al mismo tiempo que, automáticamente, cierra otro.
