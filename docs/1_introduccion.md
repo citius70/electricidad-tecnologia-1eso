@@ -1,4 +1,4 @@
-# Introducción a la electricidad
+# La electricidad
 
 ![Electricidad](media/electricidad.webp){ align=right width=200px }
 
