@@ -4,7 +4,7 @@
 
 ![Electricidad](media/electricidad.jpg){ align=right width=40% }
 
-¡Bienvenidos/as al curso de **Electricidad básica**! En este recorrido, aprenderemos los conceptos fundamentales que explican cómo funciona uno de los fenómenos más importantes y útiles de la naturaleza: **la electricidad** ⚡. Este curso está diseñado para que comprendas los principios básicos que sustentan el funcionamiento de muchos dispositivos y tecnologías que usamos a diario.
+¡Bienvenidos/as al curso de **Electricidad básica**! En este curso, aprenderemos los conceptos fundamentales que explican cómo funciona uno de los fenómenos más importantes y útiles de la naturaleza: **la electricidad** ⚡. Este curso está diseñado para que comprendas los principios básicos que sustentan el funcionamiento de muchos dispositivos y tecnologías que usamos a diario.
 
 A lo largo del curso, exploraremos los siguientes temas:
 
