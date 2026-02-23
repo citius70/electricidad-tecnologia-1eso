@@ -8,4 +8,4 @@ A lo largo de la historia, las personas han usado diferentes fuentes de energía
 
 ![Electricidad](../media/inicio.png)
 
-En esta unidad, aprenderás conceptos básicos de la electricidad a través de actividades sencillas que te ayudarán a entender cómo funciona y por qué es tan importante.
+En esta unidad, aprenderás conceptos básicos de electricidad a través de actividades sencillas que te ayudarán a entender cómo funciona y por qué es tan importante.
