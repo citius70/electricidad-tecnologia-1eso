@@ -15,13 +15,21 @@ Los fenómenos eléctricos tiene su origen en la **estructura interna de la mate
 
 El átomo proporciona las **propiedades** a la materia significa que todo lo que percibimos de una sustancia (su color, dureza, conductividad, punto de fusión, reactividad química, etc.) viene determinado por la estructura de sus átomos y cómo estos se relacionan entre sí.
 
-## Estructura del átomo
+## Modelos del átomo
 
 La palabra **átomo** viene del griego *a-tomos*, que significa **"indivisible"**. Antiguamente se pensaba que eran las piezas más pequeñas posibles y que no se podían romper.
 
+No podemos ver los átomos a simple vista, pero gracias a la ciencia y la tecnología, hemos podido descubrir que el átomo es mucho más complejo de lo que se pensaba. Se han hecho miles de experimentos para tratar de descubrir cómo son. Los hemos irradiado con rayos de todo tipo, los hemos hecho chocar unos contra otros, pero a lo máximo que hemos llegado es a "hacernos una idea" aproximada de su estructura interna. Estas "ideas" de cómo son se llaman **modelos atómicos**.
+
+En función de los experimentos realizados, se han propuesto diferentes modelos para explicar cómo es el átomo. Cada modelo ha sido una mejora del anterior, y aunque ninguno es perfecto, nos han ayudado a entender mejor la naturaleza de la materia y la electricidad.
+
+*¡Atención! No es necesario que memorices los nombres de los modelos, ni sus autores, ni las fechas. Lo importante es entender que el átomo es una estructura compleja y que los científicos han desarrollado diferentes modelos para tratar de explicarlo. Cada modelo es como una "foto" del átomo, pero ninguna es la "foto definitiva".*
+
 ![Modelos](../media/modelos.png)
 
-Aunque el átomo es la unidad básica de la materia, es como un pequeño rompecabezas formado por **dos zonas** (núcleo y corteza) y **tres prtículas subatómicas** principales (protones, neutrones y electrones).
+## Estructura del átomo
+
+Aunque el átomo es la unidad básica de la materia, en la actualidad, se cree que son como un pequeño rompecabezas formados por **dos zonas** (núcleo y corteza) y **tres prtículas subatómicas** principales (protones, neutrones y electrones).
 
 <div style="text-align: center;">
 ```mermaid
