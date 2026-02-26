@@ -34,7 +34,7 @@ Aunque el átomo es la unidad básica de la materia, en la actualidad, se cree q
 <div style="text-align: center;">
 ```mermaid
     flowchart TB
-        A[ÁTOMO]
+        A[**ÁTOMO**]
         B(Núcleo)
         C(Corteza)
         D([Protones +])
