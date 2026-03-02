@@ -1,14 +1,14 @@
 # 9. Ley de Ohm
 
-![George Ohm](../media/george_ohm.jpg){ align=right width=15% }
+![George Ohm](../media/george_ohm.jpg){ align=right width=10% }
 
 GEORGE SIMON OHM (1789-1854) fue un físico alemán que se dedicó a estudiar la **relación entre el Voltaje ($V$), la Intensidad de corriente ($I$) y la Resistencia eléctrica ($R$)** en los circuitos eléctricos.
 
 ## Definición y expresión matemática
 
-Él fue el que demostró lo que ya vimos en el apartado anterior:
-
 ![Ley de Ohm](../media/Ohms-law-cartoon-cropped.jpg){ align=right width=20% }
+
+Él fue el que demostró lo que ya vimos en el apartado anterior:
 
 - al aumentar el **Voltaje** en un circuito eléctrico, también aumentaba el número de electrones en movimiento, es decir, aumentaba la **Intensidad de corriente**,
 
